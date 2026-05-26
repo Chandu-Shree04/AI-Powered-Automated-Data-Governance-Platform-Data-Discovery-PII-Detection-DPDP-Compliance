@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+sqlalchemy
+requests
+schedule
+sqlite-utils
+ollama
